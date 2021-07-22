@@ -12,6 +12,10 @@
 
 - Translate designs and ideas into accessible, user-friendly, and maintainable interfaces.
 
+### What I'm currently learning:
+
+**React** and **Redux**
+
 
 ### Future goals:
 - Learn about design patterns and refactoring techniques.
@@ -40,6 +44,8 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
 
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+    
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vue-dot-js&logoColor=%234FC08D"/>
 
 <img alt="Search Engine Optimization" src="https://img.shields.io/badge/OnPage SEO-yellow?style=flat-square">
 </div>
@@ -56,15 +62,7 @@
 ### Tools I have tinkered with:
 
 <div>
-<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vue-dot-js&logoColor=%234FC08D"/>
+<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=flat-square&logo=node-dot-js&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB"/>
-</div>
-
-### Tools I'm currently learning / want to learn:
-
-<div>
-<img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white"/>
-<img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=flat-square&logo=webpack&logoColor=black" />
-<img alt="Electron" src="https://img.shields.io/badge/electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9" />
 </div>

@@ -4,6 +4,7 @@
 
 ### What I do:
 
+-	Create modern web apps using frameworks like Vue.js and React.
 -   Ensure that applications/websites work on mobiles, tablets, and large screens.
 -   Keep up with SEO's best practices to enhance websites' visibility on search engines.
 -   Maintain large CSS codebases and create modular, well-documented styles and components.

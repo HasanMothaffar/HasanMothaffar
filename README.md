@@ -12,7 +12,7 @@
 
 ### What I'm currently learning:
 
-**React** and **Redux**
+**Next.js** and **Material UI**
 
 ### Future goals:
 
@@ -50,8 +50,6 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-	
-<img alt="Search Engine Optimization" src="https://img.shields.io/badge/OnPage SEO-yellow?style=for-the-badge" />
 	
 <img alt="Webpack" src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" />
 	

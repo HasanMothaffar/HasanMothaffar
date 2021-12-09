@@ -12,7 +12,7 @@
 
 ### What I'm currently learning:
 
-**Next.js** and **Material UI**
+**Laravel** and **REST API development**
 
 ### Future goals:
 

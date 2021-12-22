@@ -1,6 +1,6 @@
 # Hello 👋 I'm Hasan Mothaffar!
 
-## Frontend developer | Computer Science student at Damascus University (3rd year)
+## Frontend developer | Computer Science student at Damascus University
 
 ### What I do:
 

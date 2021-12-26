@@ -4,7 +4,7 @@
 
 ### What I do:
 
--	Create modern web apps using frameworks like Vue.js and React.
+-   Create modern web apps using frameworks like Vue.js and React.
 -   Ensure that applications/websites work on mobiles, tablets, and large screens.
 -   Keep up with SEO's best practices to enhance websites' visibility on search engines.
 -   Maintain large CSS codebases and create modular, well-documented styles and components.
@@ -12,12 +12,8 @@
 
 ### What I'm currently learning:
 
-**Laravel** and **REST API development**
+**API Documentation** and **Legacy OpenGL**
 
-### Future goals:
-
--   Learn about design patterns and refactoring techniques.
--   Learn backend technologies in order to become a fullstack web developer.
 
 ### Get in touch with me
 

@@ -12,7 +12,7 @@
 
 ### What I'm currently learning:
 
-**API Documentation** and **Legacy OpenGL**
+**Modern OpenGL** and **Networking basics**
 
 
 ### Get in touch with me

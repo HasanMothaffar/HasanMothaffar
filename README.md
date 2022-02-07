@@ -12,7 +12,7 @@
 
 ### What I'm currently learning:
 
-**Modern OpenGL** and **Networking basics**
+Design patterns and software engineering principles.
 
 
 ### Get in touch with me

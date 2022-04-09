@@ -1,4 +1,4 @@
-# Hello 👋 I'm Hasan Mothaffar, a Fontend developer | CS Student
+# Hello 👋 I'm Hasan Mothaffar, a Frontend developer | CS Student
 
 I'm a third-year CS student studying at Damascus University, and I work as a freelance web developer. You can check out my profile on LinkedIn to see my previous projects.
 

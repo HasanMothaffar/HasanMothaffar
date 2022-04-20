@@ -1,8 +1,10 @@
 # Hello 👋 I'm Hasan Mothaffar, a Frontend developer | CS Student
 
-I'm a third-year CS student studying at Damascus University, and I work as a freelance web developer. You can check out my profile on LinkedIn to see my previous projects.
+I'm a third-year CS student studying at Damascus University, and I work as a freelance web developer. You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/) to see my previous projects.
 
 I like to fiddle around with JavaScript in my free time, and I'm also interested in learning **WebGL** and **Three.js**.
+
+Check out my latest contributions to the **Syrian Open Source Organization** here! https://github.com/Syrian-Open-Source/custom-snap
 
 ### What I do:
 
@@ -49,5 +51,4 @@ I like to fiddle around with JavaScript in my free time, and I'm also interested
 
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-                                                                                                                                        
+                                                                                                                          

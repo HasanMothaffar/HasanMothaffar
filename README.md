@@ -1,14 +1,14 @@
 # Hello 👋 I'm Hasan Mothaffar, a Frontend developer | CS Student
 
-I'm a third-year CS student studying at Damascus University, and I work as a freelance web developer. You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/) to see my previous projects.
+I'm a fourth-year CS student studying at Damascus University, and I work as a freelance web developer. You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/) to see my previous projects.
 
-I like to fiddle around with JavaScript in my free time, and I'm also interested in learning **WebGL** and **Three.js**.
+I'm currently learning **Laravel** in the hopes of becoming a full-stack developer.
 
 Check out my latest contributions to the **Syrian Open Source Organization** here! https://github.com/Syrian-Open-Source/custom-snap
 
 ### What I do:
 
--   Create modern web apps using frameworks like Vue.js and React.
+-   Create modern web apps using frameworks like Vue and React.
 -   Ensure that applications/websites work on mobiles, tablets, and large screens.
 -   Keep up with SEO's best practices to enhance websites' visibility on search engines.
 -   Maintain large CSS codebases and create modular, well-documented styles and components.

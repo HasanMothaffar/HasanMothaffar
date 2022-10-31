@@ -1,8 +1,6 @@
 # Hello 👋 I'm Hasan Mothaffar, a Frontend developer | CS Student
 
-I'm a fourth-year CS student studying at Damascus University, and I work as a freelance web developer. You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/) to see my previous projects.
-
-I'm currently learning **Laravel** in the hopes of becoming a full-stack developer.
+I'm a software engineering student at Damascus University (4th year), and I work as a freelance web developer. You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/) to see my previous projects.
 
 Check out my latest contributions to the **Syrian Open Source Organization** here! https://github.com/Syrian-Open-Source/custom-snap
 

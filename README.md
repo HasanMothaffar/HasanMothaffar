@@ -1,4 +1,4 @@
-# Hello 👋 I'm Hasan Mothaffar, a Frontend developer | CS Student
+# 👋 I'm Hasan Mothaffar - Software Engineering Student | Web Developer
 
 I'm a software engineering student at Damascus University (4th year), and I work as a freelance web developer. You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/) to see my previous projects.
 
@@ -14,7 +14,7 @@ Check out my latest contributions to the **Syrian Open Source Organization** her
 
 ### Get in touch with me
 
-<a href="https://t.me/perryzplatypus"
+<a href="https://t.me/perrykhuldalmaa"
 	>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/"
 	>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>

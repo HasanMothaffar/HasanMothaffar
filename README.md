@@ -9,14 +9,14 @@ Check out my latest contributions to the **Syrian Open Source Organization** her
 -   Create modern web apps using frameworks like Vue and React.
 -   Ensure that applications/websites work on mobiles, tablets, and large screens.
 -   Keep up with SEO's best practices to enhance websites' visibility on search engines.
--   Maintain large CSS codebases and create modular, well-documented styles and components.
+-   Maintain and continously refactor project codebase and ensure it adheres to SOLID principles and design patterns.
 -   Translate designs and ideas into accessible, user-friendly, and maintainable interfaces.
 
 ### Get in touch with me
 
 <a href="https://t.me/perrykhuldalmaa"
 	>![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/hasan-mothaffar-0a55301b0/"
+<a href="https://www.linkedin.com/in/hasan-mothaffar/"
 	>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ### Technologies I'm experienced with:

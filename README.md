@@ -1,16 +1,15 @@
 # 👋 I'm Hasan Mothaffar - Software Engineering Student | Web Developer
 
-I'm a software engineering student at Damascus University (5th year), and I work as a freelance frontend developer (Next.js, React.js, TypeScript). You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar/) to see my previous projects.
+Frontend developer with 3.5+ years of experience (Next.js, React.js, TypeScript). Currently studying Software Engineering at Damascus University (5th year). You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar/) to see my previous projects.
 
-Check out my latest contributions to the **Syrian Open Source Organization** here! https://github.com/Syrian-Open-Source/custom-snap
+I'm aiming to become a fullstack developer, so I'm currently learning Laravel and backend technologies.
 
 ### What I do:
 
 -   Create modern web apps using Next.js, TypeScript, and React.js
--   Ensure that applications/websites work on mobiles, tablets, and large screens.
 -   Keep up with SEO's best practices to enhance websites' visibility on search engines.
 -   Maintain and continously refactor project codebase and ensure it adheres to SOLID principles and design patterns.
--   Translate designs and ideas into accessible, user-friendly, and maintainable interfaces.
+-   Translate designs and ideas into responsive, user-friendly interfaces.
 
 ### Get in touch with me
 
@@ -27,7 +26,6 @@ Check out my latest contributions to the **Syrian Open Source Organization** her
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Tanstack Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)

@@ -8,8 +8,8 @@ I'm aiming to become a fullstack developer, so I'm currently learning Laravel an
 
 -   Create modern web apps using Next.js, TypeScript, and React.js
 -   Keep up with SEO's best practices to enhance websites' visibility on search engines.
--   Maintain and continously refactor project codebase and ensure it adheres to SOLID principles and design patterns.
 -   Translate designs and ideas into responsive, user-friendly interfaces.
+-   Create well-documented REST APIs for web and mobile applications.
 
 ### Get in touch with me
 
@@ -22,8 +22,7 @@ I'm aiming to become a fullstack developer, so I'm currently learning Laravel an
 
 #### Frontend
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)

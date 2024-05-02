@@ -1,6 +1,6 @@
 # 👋 I'm Hasan Mothaffar - Software Engineering Student | Web Developer
 
-Frontend developer with 3.5+ years of experience (Next.js, React.js, TypeScript). Currently studying Software Engineering at Damascus University (5th year). You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar/) to see my previous projects.
+Frontend developer with 4+ years of experience (Next.js, React.js, TypeScript). Currently studying Software Engineering at Damascus University (5th year). You can check out [my profile on LinkedIn](https://www.linkedin.com/in/hasan-mothaffar/) to see my previous projects.
 
 I'm aiming to become a fullstack developer, so I'm currently learning Laravel and backend technologies.
 
